@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-This is a _FAQ_ and user guide for [low stock alert toolkit app on shopify](https://apps.shopify.com/low-stock-alert-toolkit).
+This is a _FAQ_ and user guide for [Alertable low stock alert app on shopify](https://apps.shopify.com/low-stock-alert-toolkit).
 
 ## How does `instant` alert work?
 
